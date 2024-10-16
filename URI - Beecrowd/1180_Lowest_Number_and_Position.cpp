@@ -10,7 +10,7 @@ for (auto i = 0; i < n;i++){
     cin >> arr[i];
     if(arr[i]<x){
         x = arr[i];
-        pos = i;
+        pos = i ;
     }
 }
 
