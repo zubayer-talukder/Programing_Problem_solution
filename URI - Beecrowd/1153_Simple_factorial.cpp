@@ -11,3 +11,4 @@ cout<< fun(n)<<endl;;
 
     return 0;
 }
+
