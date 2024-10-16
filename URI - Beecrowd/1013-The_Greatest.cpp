@@ -1,12 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
-int main() {
- int a,b,c;
- cin>>a>>b>>c;
-int maiorAB=((a+b)+abs(a-b))/2;
-int maior =(maiorAB+c + abs(maiorAB-c))/2;
- cout<<maior<<" eh o maior"<<endl;
- 
+
+int main()
+{
+    int a, b, c;
+    cin >> a >> b >> c;
+    int maiorAB = ((a + b) + abs(a - b)) / 2;
+    int maior = (maiorAB + c + abs(maiorAB - c)) / 2;
+    cout << maior << " eh o maior" << endl;
+
     return 0;
 }
