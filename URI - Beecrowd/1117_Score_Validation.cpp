@@ -11,7 +11,7 @@ int main() {
         }
         else
         {
-            cout << "nota invalida" << endl;
+            cout << "nota invalida" << endl ;
         }
         if (count == 2)
             break;
