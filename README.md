@@ -1,6 +1,9 @@
-# Programming_Problem_solution
+# Problem Solving Solution
 
-In this repository I will be uploaded all the programming problem that I have solved in Online Judges
+Here I will upload all the solution of online Judges that I have been already solved
 
-|1. | URI - Beecrowd 
-|2. |CodeForces 
+## Online Judges that are using me:
+
+| Serial | Judges Name    | Solved Problems | My Profile                                                 |
+| ------ | -------------- | --------------- | ---------------------------------------------------------- |
+| 1.     | URI - BeeCrowd | 61              | [HabluCoder](https://judge.beecrowd.com/en/profile/847805) |
