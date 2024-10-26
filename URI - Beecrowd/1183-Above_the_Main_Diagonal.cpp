@@ -10,10 +10,10 @@ int main() {
             cin>>arr[i][j];
         }
     }
-  double sum=0,count;
-   for(int i=1;i<12;i++){
-       for (int j = 11; j >= 0;j--){
-           sum += arr[i][i];
+  double sum=0,count=0;
+   for(int i=0;i<11;i++){
+       for( int j = i + 1; j < 12; j++) {
+           sum += arr[i][j];
        count++;
        }
        
