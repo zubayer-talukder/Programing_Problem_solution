@@ -14,4 +14,4 @@ Here I will upload all the solution of online Judges that I have been already so
 
 ##Last Update Date & Time:
 
-`Last Update: 24-OCT-2024 GMT6+(01:04)`
+`Last Update: 26-OCT-2024 GMT6+(20:15)`
