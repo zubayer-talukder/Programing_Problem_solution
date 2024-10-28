@@ -1,4 +1,4 @@
-// 1184 - Below the Main Diagonal
+
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -23,4 +23,5 @@ int main() {
     
  cout<<fixed<<setprecision(1)<<sum<<endl;
  }
+}
  
