@@ -12,6 +12,7 @@ Here I will upload all the solution of online Judges that I have been already so
 | 4.     | Hacker Rank    | 2 problems      | [abdullahzubayer2](https://www.hackerrank.com/profile/abdullahzubayer2)        |
 |        | Total Solved   | 203 Problems    |
 
-##Last Update Date & Time:
 
-`Last Update: 30-OCT-2024 GMT6+(01:34)`
+## Last Update Date & Time:
+
+`Last Update: 30-OCT-2024 GMT6+(01:25)`
